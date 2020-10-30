@@ -6,6 +6,17 @@
     <a href="https://github.com/MatthewHufft/">
    <img src="https://github-readme-stats.vercel.app/api?username=MatthewHufft&show_icons=true&bg_color=rgba(255,255,255,1)" alt="Justin's Stats" >
       </a>
+ </p>
+<p align="center">
+  <a href="https://MatthewHufft.github.io/">
+    <img src="https://static.thenounproject.com/png/156843-200.png" width="26px">
+  </a>
+  &emsp;
+   <a href="www.linkedin.com/in/matthew-hufft">
+    <img src="https://img.icons8.com/ios-filled/256/000000/linkedin.svg" width="26px"/>
+  </a>
+  &emsp;
+  </p>
       
 ![enter image description here](https://github.com/MatthewHufft/MatthewHufft/blob/main/assets/Icons.png?raw=true)
  I'm a fixer. A tinkerer. I can't help but think of better, more efficient ways to do things. In many ways, being a full-stack software developer is less an occupation and more a lifestyle to me. I'm skilled in Microsoft .NET, C#,  MySQL databases, Vue.js, MongoDB, Auth0, Dapper, Mongoose, Express, Node.js, and more.  In addition to that, my 7 years of experience in the sales and marketing industry make me a valuable addition to any team with a need for developers with excellent communication and leadership skills.
