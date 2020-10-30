@@ -2,8 +2,13 @@
 
 ## Full Stack Software Developer
 
+<p align="center">
+    <a href="https://github.com/MatthewHufft/">
+   <img src="https://github-readme-stats.vercel.app/api?username=MatthewHufft&show_icons=true&bg_color=rgba(255,255,255,1)" alt="Justin's Stats" >
+      </a>
+      
 ![enter image description here](https://github.com/MatthewHufft/MatthewHufft/blob/main/assets/Icons.png?raw=true)
-I'm a fixer. A tinkerer. I can't help but think of better, more efficient ways to do things. In many ways, being a full-stack software developer is less an occupation and more a lifestyle to me. After spending 6 years in the sales and marketing industry, I pivoted to pursue my lifelong passion in software development at Boise Codeworks where I honed my skills in Microsoft .NET, C#, MySQL databases, Vue.js, Mongodb, Mongoose, Express, NodeJS, and various frameworks by building out full-scale applications both on and off a team.
+ I'm a fixer. A tinkerer. I can't help but think of better, more efficient ways to do things. In many ways, being a full-stack software developer is less an occupation and more a lifestyle to me. I'm skilled in Microsoft .NET, C#,  MySQL databases, Vue.js, MongoDB, Auth0, Dapper, Mongoose, Express, Node.js, and more.  In addition to that, my 7 years of experience in the sales and marketing industry make me a valuable addition to any team with a need for developers with excellent communication and leadership skills.
 
 ![](https://github.com/MatthewHufft/matthew-hufft/blob/main/assets/resume-png.PNG?raw=true)
 <br>
