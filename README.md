@@ -11,7 +11,21 @@
   </a>
 </div>
       
- I'm a fixer. A tinkerer. I can't help but think of better, more efficient ways to do things. In many ways, being a full-stack software developer is less an occupation and more a lifestyle to me. I'm skilled in Microsoft .NET, C#,  MySQL databases, Vue.js, MongoDB, Auth0, Dapper, Mongoose, Express, Node.js, and more.
+ I'm a fixer. A tinkerer. I can't help but think of better, more efficient ways to do things. In many ways, being a full-stack software developer is less an occupation and more a lifestyle to me. I'm skilled in Microsoft .NET, C#,  MySQL databases, Vue.js, MongoDB, Auth0, Dapper, Mongoose, Express, Node.js, and more.  
+See some of my projects here at these links:
+
+- **The Keeper:** [View Here](https://thekeepr.herokuapp.com/#/)
+  _<-- A quick web app inspired by Gify and Pinterest that allows users to save and share images and gifs with other users. Utilized a MySQL server, .NET, Auth0, and Vue.js -->_
+
+- **PetPal:** [View Here](https://petpal7.herokuapp.com/#/)
+  _<-- An app made in collaboration with 5 other developers. PetPal is basically Tinder for finding your new pet. It pulls real-time data from the PetFinder API and compiles a list of all adoptable cats and dogs within the United States. You can then swipe left or right on the pets you like, and contact their adoption center when you're ready to move forward_
+  **_Must be used in mobile view. Currently working on responsive desktop view_** -->
+
+- **Banzai:** [View Here](https://banzai-board.herokuapp.com/?#/)
+  _<-- An original Kanban-type board maker. Users can login/create accounts, create boards, add lists, tasks, and even comments on tasks. Utilizes MongoDB, Auth0 and Vue.js -->_
+
+- **Bug-Tracker:** [View Here](https://bug-tracker2000.herokuapp.com/#/)
+  _<-- Users can report and track bugs, leave notes on actions taken to resolve bugs, and close them. Utilizes Auth0, MongoDB, and Vue.js. -->_
 
 In addition to that, my 7 years of experience in the sales and marketing industry make me a valuable addition to any team with a need for developers with excellent communication and leadership skills.
 
