@@ -11,8 +11,9 @@
   </a>
 </div>
       
- I'm a fixer. A tinkerer. I can't help but think of better, more efficient ways to do things. In many ways, being a full-stack software developer is less an occupation and more a lifestyle to me. I'm skilled in Microsoft .NET, C#,  MySQL databases, Vue.js, MongoDB, Auth0, Dapper, Mongoose, Express, Node.js, and more.  
-See some of my projects here at these links:
+ I'm a fixer. A tinkerer. I can't help but think of better, more efficient ways to do things. In many ways, being a full-stack software developer is less an occupation and more a lifestyle to me. I'm skilled in Microsoft .NET, C#,  MySQL databases, Vue.js, MongoDB, Auth0, Dapper, Mongoose, Express, Node.js, and more. 
+  
+See some of my projects here:
 
 - **The Keeper:** [View Here](https://thekeepr.herokuapp.com/#/)
   _<-- A quick web app inspired by Gify and Pinterest that allows users to save and share images and gifs with other users. Utilized a MySQL server, .NET, Auth0, and Vue.js -->_
