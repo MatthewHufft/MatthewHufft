@@ -11,12 +11,12 @@
   </a>
 </div>
       
- I'm a fixer. A tinkerer. I can't help but think of better, more efficient ways to do things. In many ways, being a full-stack software developer is less an occupation and more a lifestyle to me. I'm skilled in Microsoft .NET, C#,  MySQL databases, Vue.js, MongoDB, Auth0, Dapper, Mongoose, Express, Node.js, and more. 
-  
+ I'm a fixer. A tinkerer. I can't help but think of better, more efficient ways to do things. In many ways, being a full-stack software developer is less an occupation and more a lifestyle to me. I'm skilled in Microsoft .NET, C#,  MySQL databases, Vue.js, MongoDB, Auth0, Dapper, Mongoose, Express, Node.js, and more.
+
 See some of my projects here:
 
 - **The Keeper:** [View Here](https://thekeepr.herokuapp.com/#/)
-  _<-- A quick web app inspired by Gify and Pinterest that allows users to save and share images and gifs with other users. Utilized a MySQL server, .NET, Auth0, and Vue.js -->_
+  _<-- A quick web app inspired by Gify and Pinterest that allows users to save and share images and gifs with other users. Utilized a MySQL server, C#, .NET, Auth0, and Vue.js. Deployed using Docker and heroku -->_
 
 - **PetPal:** [View Here](https://petpal7.herokuapp.com/#/)
   _<-- An app made in collaboration with 5 other developers. PetPal is basically Tinder for finding your new pet. It pulls real-time data from the PetFinder API and compiles a list of all adoptable cats and dogs within the United States. You can then swipe left or right on the pets you like, and contact their adoption center when you're ready to move forward_
